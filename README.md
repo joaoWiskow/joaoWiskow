@@ -6,10 +6,10 @@
 
 ### 🛠️ Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### 📊 Estatísticas
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaoWiskow&show_icons=true&theme=tokyonight" />
 </p>
